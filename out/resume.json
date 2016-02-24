@@ -1,0 +1,418 @@
+{
+  "name": "Line Langballe",
+  "info": {},
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.1.0"
+  },
+  "location": {
+    "city": "Copenhagen",
+    "region": "",
+    "country": "DK",
+    "code": "1660",
+    "address": "Dannebrogsgade 16, 1. th"
+  },
+  "employment": {
+    "history": [
+      {
+        "position": "Project Manager, Health Innovation and business network",
+        "employer": "Rigshospitalet",
+        "summary": "Knowledge-broker (Vidensbroker) for the Capital region. ",
+        "current": true,
+        "start": "August 2015",
+        "end": "",
+        "url": "https://www.rigshospitalet.dk/",
+        "keywords": [],
+        "highlights": [
+          "Member of regional Knowledge-broker (“Vidensbroker”) network",
+          "Mentoring service designers",
+          "Project Manager",
+          "Buisness Network",
+          "Mapping of test facilities",
+          "Facilitating service-design processes within medico products"
+        ]
+      },
+      {
+        "position": "Innovation Project Coordinator",
+        "employer": "New Nordic Zealand Hospital",
+        "summary": "Project manager and development of innovations projects for the new hospital 2020.",
+        "start": "June 2013",
+        "end": "November 2014",
+        "url": "https://www.regionh.dk/nhn",
+        "keywords": [],
+        "highlights": [
+          "Concept and strategy of new workflow",
+          "Concept and stagey for patient areas",
+          "Funding",
+          "Member of interdisciplinary innovation board"
+        ]
+      },
+      {
+        "position": "Project Manager",
+        "employer": "Finelco",
+        "summary": "Concept development and furniture design for Optimizing resource utilisation through innovation process.",
+        "current": true,
+        "start": "2011",
+        "end": "",
+        "url": "http://www.finelco.dk/",
+        "keywords": [],
+        "highlights": [
+          "Optimizing resource utilisation."
+        ]
+      },
+      {
+        "position": "Partner and Designer",
+        "employer": "TotemCollective",
+        "summary": "Project and business managing. In TotemCollective I have strengthened my ability to plan and structure big projects and gained experience in how to turn ideas into practice and products.",
+        "start": "2008",
+        "end": "2010",
+        "url": "http://www.totemcollective.com/",
+        "keywords": [],
+        "highlights": []
+      },
+      {
+        "position": "Designer and Researchassistant",
+        "employer": "Innovation Lab",
+        "summary": "Innovation lab I was responsible for developing a new way of using prefabricated concrete in architecture.",
+        "start": "2006",
+        "end": "2006",
+        "url": "http://ilab.dk/",
+        "keywords": [],
+        "highlights": []
+      },
+      {
+        "position": "Internship",
+        "employer": "Pangea-Idea at Future Farmers",
+        "summary": "Pangea-idea provides companies with brand identity and product design. Started up in San Francisco.",
+        "start": "2006",
+        "end": "2006",
+        "url": "http://www.futurefarmers.com/",
+        "keywords": [],
+        "highlights": []
+      },
+      {
+        "position": "Design- and researchassistant",
+        "employer": "Interactive Spaces - Aarhus University",
+        "summary": "My work at Interactive Spaces included developing new projects that focused on new ways to interact with lifestyle products using the newest technology. The center has clients like B&O, which I mainly worked with.",
+        "start": "2005",
+        "end": "2007",
+        "url": "http://alexandra.dk/dk/om_os/labs/interactive-spaces-lab",
+        "keywords": [],
+        "highlights": []
+      }
+    ]
+  },
+  "education": {
+    "level": "",
+    "history": [
+      {
+        "institution": "Niels Brock",
+        "start": "2010",
+        "end": "2010",
+        "grade": "10",
+        "curriculum": [],
+        "summary": "",
+        "area": "Project Management",
+        "studyType": "Course"
+      },
+      {
+        "institution": "Chalmers University of Technology",
+        "start": "2005",
+        "end": "2005",
+        "grade": "",
+        "curriculum": [
+          "I studied HCI and user experience methods at Chalmers for one semester. In a multidisciplinary group with engineers, computer scientist, fashion designers and architects, we created interactive learning tool for children ."
+        ],
+        "summary": "",
+        "area": "Human Computer Interaction, Interaction Design",
+        "studyType": "Course"
+      },
+      {
+        "institution": "Aarhus School of Architecture",
+        "start": "2003",
+        "end": "2007",
+        "grade": "",
+        "curriculum": [
+          "In my master study I worked on an ambitious project called Digital Urban Living. I worked in collaboration with another students and together we mapped the existing ways of connecting with people in urban life, and created a concept by using the city and its life to connect to each other using the city’s environment and new technology.",
+          "Technology; data and programming, IT-university Aarhus Joined class with computer scientist from Aarhus University.",
+          "Technology, architecture and design, IT-university Aarhus Joined class with computer scientist from Aarhus University."
+        ],
+        "summary": "",
+        "area": "Interaktions Designer/Human Computer Interaction",
+        "studyType": "Masters"
+      },
+      {
+        "institution": "Aarhus School of Architecture",
+        "start": "2001",
+        "end": "2003",
+        "grade": "",
+        "curriculum": [
+          "In my bachelor study I developed a concept for a modular house."
+        ],
+        "summary": "",
+        "area": "Architecture",
+        "studyType": "Bachelor"
+      }
+    ]
+  },
+  "service": {
+    "history": [
+      {
+        "type": "volunteer",
+        "position": "Mentor",
+        "organization": "Google for Entrepreneurs - Startup Weekend Health Copenhagen",
+        "start": "November 2015",
+        "end": "November 2015",
+        "url": " http://www.up.co/communities/denmark/copenhagen/startup-weekend/7113",
+        "summary": "All Startup Weekend events follow the same basic model: anyone is welcome to pitch their startup idea and receive feedback from their peers. Teams organically form around the top ideas (as determined by popular vote) and then it’s a 54 hour frenzy of business model creation, coding, designing, and market validation. ",
+        "highlights": []
+      },
+      {
+        "type": "volunteer",
+        "position": "Volunteer",
+        "organization": "Red Cross",
+        "start": "August 2015",
+        "end": "August 2015",
+        "url": "",
+        "summary": "Idea maturation, project development and fundrasing",
+        "highlights": []
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "Service design",
+        "level": "",
+        "skills": []
+      },
+      {
+        "name": "Concept development",
+        "level": "",
+        "skills": []
+      },
+      {
+        "name": "Product Design",
+        "level": "",
+        "skills": []
+      },
+      {
+        "name": "Interaction Design",
+        "level": "",
+        "skills": []
+      },
+      {
+        "name": "Industrial Design",
+        "level": "",
+        "skills": []
+      },
+      {
+        "name": "Concept Design",
+        "level": "",
+        "skills": []
+      },
+      {
+        "name": "Project Management",
+        "level": "",
+        "skills": []
+      },
+      {
+        "name": "Usability Testing",
+        "level": "",
+        "skills": []
+      },
+      {
+        "name": "Architecture",
+        "level": "",
+        "skills": []
+      },
+      {
+        "name": "Design Thinking",
+        "level": "",
+        "skills": []
+      },
+      {
+        "name": "Idea generation",
+        "level": "",
+        "skills": []
+      },
+      {
+        "name": "Buisness Development",
+        "level": "",
+        "skills": []
+      },
+      {
+        "name": "Product Design",
+        "level": "",
+        "skills": []
+      },
+      {
+        "name": "Product Planning",
+        "level": "",
+        "skills": []
+      },
+      {
+        "name": "Strategy",
+        "level": "",
+        "skills": []
+      },
+      {
+        "name": "Innovation",
+        "level": "",
+        "skills": []
+      }
+    ]
+  },
+  "writing": [
+    {
+      "title": "Exhibitions - Galore, Copenhagen “One”",
+      "publisher": "",
+      "url": "",
+      "date": "2010",
+      "summary": "An art exhibition with the artgroup I am a part of."
+    },
+    {
+      "title": "Exhibitions - The Glass Curtain Gallery, Chicago",
+      "publisher": "",
+      "url": "",
+      "date": "2010",
+      "summary": "The Original C Plus System;. On basis of the exhibition in Knoxville, we where invited to the windy city Chicago."
+    },
+    {
+      "title": "Lectures - Columbia College Chicago.",
+      "publisher": "",
+      "url": "",
+      "date": "2008",
+      "summary": "The Studio where invited by the College to give lectures at their architecture, art and design department, and host a workshop about design theories and innovation."
+    },
+    {
+      "title": "Lectures - University of Tennessee The Original C Plus System",
+      "publisher": "",
+      "url": "",
+      "date": "2008",
+      "summary": "A seating system I designed that invite students to co-design on the remification that is the structure of the design."
+    },
+    {
+      "title": "Exhibitions - The Art Gallery of Knoxville",
+      "publisher": "",
+      "url": "",
+      "date": "2008",
+      "summary": "The Original C Plus System;: My design studio was invited by the Art group SUPERFLEX and The Art Gallery of Knoxville to host a exhibition about furniture design and copyright."
+    },
+    {
+      "title": "Lectures - Alexandra Institute: Urban Digital Living.",
+      "publisher": "",
+      "url": "",
+      "date": "2007",
+      "summary": "About the combination Urban life, city and design on the basis on my master study."
+    },
+    {
+      "title": "Lectures - Aarhus School of Architecture",
+      "publisher": "",
+      "url": "",
+      "date": "2006",
+      "summary": "New methods in the use of prefabricated concrete."
+    },
+    {
+      "title": "Lectures - IT- University Copenhagen",
+      "publisher": "",
+      "url": "",
+      "date": "2006",
+      "summary": "New methods in the use of prefabricated concrete."
+    },
+    {
+      "title": "Lectures - Eriksminde Efterskole",
+      "publisher": "",
+      "url": "",
+      "date": "2006",
+      "summary": "IT in the FUTURE."
+    },
+    {
+      "title": "Lectures -Pride and Pre-Design, Lisbon",
+      "publisher": "",
+      "url": "",
+      "date": "2005",
+      "summary": "Engaging experiences in interactive museum exhibitions."
+    },
+    {
+      "title": "Engaging experiences in interactive museum exhibitions",
+      "publisher": "CUMULUS",
+      "url": "",
+      "date": "2005",
+      "summary": "Pride and Pre-Design – The Cultural Heritage and the Science of Design."
+    },
+    {
+      "title": "Lectures - B&O headquarters",
+      "publisher": "",
+      "url": "",
+      "date": "2005",
+      "summary": "Imuseum – Experience Design – The PDA free Museum."
+    }
+  ],
+  "recognition": [
+    {
+      "title": "Boblr challenge for Dantoy",
+      "date": "March 2013",
+      "from": "Boblr",
+      "summary": "\"Thanks Line for participating and for creating such an exciting idea and solution to Dantoy, which was chosen among other very attractive solutions from talented creative professionals around the world.  As Line has proven her high calibre, and you can browse her portfolio here together with Boblr’s other cherry-picked top talents.\""
+    }
+  ],
+  "social": [
+    {
+      "label": "Twitter",
+      "network": "Twitter",
+      "url": "https://twitter.com/LineLangballe",
+      "user": "LineLangballe"
+    },
+    {
+      "label": "LinkedIn",
+      "network": "LinkedIn",
+      "url": "https://www.linkedin.com/in/linelangballe",
+      "user": "LineLangballe"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Design",
+      "keywords": []
+    },
+    {
+      "name": "Running",
+      "keywords": []
+    },
+    {
+      "name": "Technology",
+      "keywords": []
+    },
+    {
+      "name": "Architecture",
+      "keywords": []
+    },
+    {
+      "name": "Art",
+      "keywords": []
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Kim Eskildsen - Senior Project Engineer",
+      "flavor": "professional",
+      "quote": "Første gang man møder Line er hun meget observerende og virker lidt genert, men alligevel med en selvtillid og et selvværd der er let at aflæse. Line har god grund til at have selvtilliden og  Selvværd oppe på 100 %. Hun er Selvstændig, kreativ og udviklende og er derfor en yderst aktiv aktør i kreative grupper. Line har dog også begge ben solidt plantet på jorden så de kreative tanker og ideer også bliver funderet og ført frem.   Bag den smukke ydre ligger der en stærk hjerne der tænker. Dette giver sig udtryk ved at hun kan være stille, men når hun har lyttet kommer der yders kompetent modspil, men alligevel på måde man kun kan have respekt for. Line vinder sine sejre ved at være aktiv lyttende og vel argumenterende på en empatisk måde. Line er en intelligent pige med en stor viden på mange forskellige fronter hvorfor hun er meget alsidig. Line behersker kaos uden at blive stresset, men formår samtidigt at omsætte kaos til struktur.   Jeg har haft fornøjelsen at arbejde kortvarigt sammen med Line i en projektgruppe, hvor gruppens forskelligheder var markante. Her ydede Line en ihærdig indsats og satte sit præg på opgaven.  Line er oprigtig, ærlig, og kompromissøgende i sine debatter og derfor også let at samarbejde med.   Vær god mod Line og giv hende et professionelt og kreativt miljø, og hun vil blomstre og gør den forskel som giver succes.   Jeg kan derfor kun have den største faglige respekt for Line og derfor også på det varmeste anbefale Line til fremtidige opgaver. En person jeg gerne vil arbejde sammen med igen hvis muligheden opstår",
+      "private": false
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Almost native speaker"
+    },
+    {
+      "language": "Danish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Swedish",
+      "fluency": "Conversational"
+    }
+  ]
+}
