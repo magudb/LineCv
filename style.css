@@ -497,3 +497,6 @@
         .entypo-smashing:before {
             content: "\e634";
         }
+        .entypo-download:before {
+                content: "\0077";
+        }
